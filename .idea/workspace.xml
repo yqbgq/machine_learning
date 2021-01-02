@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e263d3d5-310b-4221-b33e-4a643647189f" name="Default Changelist" comment="" />
+    <list default="true" id="e263d3d5-310b-4221-b33e-4a643647189f" name="Default Changelist" comment="调整目录结构">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pattern-recognition" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lK41lJpIslRC45QZXy9hXiSGvN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -33,6 +36,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\huangwei\Desktop\项目\ml" />
       <recent name="C:\Users\huangwei\Desktop\项目\ml\pattern-recognition\method\logistic" />
     </key>
   </component>
@@ -102,7 +106,7 @@
       <workItem from="1607439047231" duration="2000" />
       <workItem from="1607848316797" duration="3313000" />
       <workItem from="1608347704509" duration="178000" />
-      <workItem from="1609589290881" duration="310000" />
+      <workItem from="1609589290881" duration="838000" />
     </task>
     <servers />
   </component>
